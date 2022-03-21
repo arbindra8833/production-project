@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "Warren",
+        "lastName": "Joyce",
+        "username": "pogojyj",
+        "hash": "$2a$10$T36ph.I6LiOxaDjIBq1LFetKahfEUw8a4VYA.WC1L6Aoa81nteSBC",
+        "id": 1,
+        "dateCreated": "2022-03-21T04:19:37.255Z",
+        "dateUpdated": "2022-03-21T04:19:37.255Z"
+    },
+    {
+        "firstName": "Alexandra",
+        "lastName": "Rollins",
+        "username": "refisekeqi",
+        "hash": "$2a$10$JmnKe1SdbIwBfVa.t75mE.j1RLQQPltMN/iTbD1.gERos4BBv.ms.",
+        "id": 2,
+        "dateCreated": "2022-03-21T04:19:51.568Z",
+        "dateUpdated": "2022-03-21T04:19:51.568Z"
+    },
+    {
+        "firstName": "Knox",
+        "lastName": "Chan",
+        "username": "vahasyxa",
+        "hash": "$2a$10$OkHFnOShN6RwLi3GtzfPruXjD.S2MPm3knzjG47CUk6xDyHRhIBQu",
+        "id": 3,
+        "dateCreated": "2022-03-21T12:43:29.873Z",
+        "dateUpdated": "2022-03-21T12:43:29.874Z"
+    },
+    {
+        "firstName": "arbindra kumar",
+        "lastName": "sah",
+        "username": "arbindrasah",
+        "hash": "$2a$10$KQELd/bkZ3waNeQnZae.FOKaZx8cCE2FWEf/j4d0ERFC9jk/3exCm",
+        "id": 4,
+        "dateCreated": "2022-03-21T12:45:09.775Z",
+        "dateUpdated": "2022-03-21T12:45:09.775Z"
+    }
+]
